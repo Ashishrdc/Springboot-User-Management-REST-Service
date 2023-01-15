@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.develop.assignmentPart2.AssignmentApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.319 s - in com.develop.assignmentPart2.AssignmentApplicationTests
